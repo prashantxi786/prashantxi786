@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Prashant Singh</h1>
-<h3 align="center">Growth-Oriented Full Stack Web developer from New Delhi,India</h3>
+<h3 align="center">Growth-Oriented Full Stack Web developer from New Delhi,India. Hands-on experience with more the 1300+ hours of coding and 200+ hours of DSA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantxi786&label=Profile%20views&color=0e75b6&style=flat" alt="prashantxi786" /> </p>
 
