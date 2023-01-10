@@ -1,5 +1,8 @@
-<h1 align="center">Hello👋, I'm Prashant Singh</h1>
-<h3 align="center">Growth-Oriented Full Stack Web developer from New Delhi,India. Hands-on experience with more than 1300+ hours of coding and 200+ hours of DSA.</h3>
+<h1 align="left">Hello👋, I'm Prashant Singh</h1>
+<div display="flex">
+<h3 align="left" width="500">Growth-Oriented Full Stack Web developer from New Delhi, India. <br/>Hands-on experience with more than 1300+ hours of coding and <br/> 200+ hours of DSA.</h3>
+<img align="right" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="image"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantxi786&label=Profile%20views&color=0e75b6&style=flat" alt="prashantxi786" /> </p>
 
