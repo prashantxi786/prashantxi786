@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantxi786&label=Profile%20views&color=0e75b6&style=flat" alt="prashantxi786" /> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://prashantxi786.github.io/">my portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="#">my portfolio</a>
 
 - 💬 Ask me about **React, JavaScript, HTML**
 
