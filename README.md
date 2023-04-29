@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prashantxi786@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1oRoexwZp7b6q7m_245oTqjDpjTtV8hIn/view?usp=share_link" download>My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1CKF5kifnjwzdxOCzqRGCTOBxUcPnbgqN/view?usp=sharing" download>My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
